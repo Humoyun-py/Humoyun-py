@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=abdul-rozzaq&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Humoyun-py&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="Trophies" />
 </div>
 
 
