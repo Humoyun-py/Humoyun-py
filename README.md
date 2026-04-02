@@ -89,7 +89,7 @@
 ### Contribution Snake
 
 <div align="center">
-  <img alt="Snake animation" src="https://github.com/Humoyun-py/Profile/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Humoyun-py/Profile/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
