@@ -32,8 +32,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Humoyun-py&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Humoyun-py&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Humoyun-py&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Humoyun-py&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Humoyun-py&theme=tokyonight&hide_border=true)
 
 ## Contribution Activity
