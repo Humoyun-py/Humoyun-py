@@ -68,8 +68,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Humoyun-py&theme=tokyonight" height="180" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Humoyun-py&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Humoyun-py&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humoyun-py&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
