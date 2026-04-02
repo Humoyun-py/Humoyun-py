@@ -28,9 +28,11 @@
 ### GitHub Overview
 
 
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humoyun-py&theme=tokyonight" alt="GitHub Overview" />
+  <img src="https://github-trophies.vercel.app/?username=abdul-rozzaq&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 </div>
+
 
 
 ---
