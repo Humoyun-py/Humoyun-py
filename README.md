@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Humoyun&fontAlign=50&fontAlignY=38&color=0:0f172a,50:1d4ed8,100:38bdf8&fontColor=f8fafc&desc=Python%20Backend%20Developer%20from%20Uzbekistan&descAlign=50&descAlignY=60" width="100%" alt="Header" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Hi+there%2C+I'm+Humoyun;Python+Backend+Developer+from+Uzbekistan" alt="Typing SVG" />
 </div>
 
